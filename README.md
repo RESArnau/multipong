@@ -4,9 +4,9 @@ J A N D U P O N G
 
 SOBRE EL JUEGO
 
-Juego desarrollado por los alumnos de Segundo de DAM VIOD de la Escola Pia de Granollers i Balmes. 
+Juego desarrollado por los alumnos de Segundo de DAM VIOD de la Escola Pia de Granollers y Balmes. 
 
-Trata sobre la replica del famoso Pong de Atari pero multijugador, en línea, con gráficos y nuevas novedades que iremos añadiendo poco a poco (escrito en C++ y con el uso de SDL).
+Trata sobre la réplica del famoso Pong de Atari pero multijugador, en línea, con gráficos y nuevas novedades que iremos añadiendo poco a poco (escrito en C++ y con el uso de SDL).
 
 
 CONTROLES
