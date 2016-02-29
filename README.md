@@ -1,21 +1,23 @@
-_____________________________________________________________________________________
+J A N D U P O N G
 
-  J A N D U P O N G
-_____________________________________________________________________________________
+![Alt text](https://sites.google.com/a/epiagranollers.cat/dam-viod/_/rsrc/1446939118426/config/customLogo.gif?revision=45)
 
-<div align="left">
-        <img width="45%" src="https://sites.google.com/a/epiagranollers.cat/dam-viod/_/rsrc/1446939118426/config/customLogo.gif?revision=45" alt="About screen" title="About screen"</img>
-</div>
+SOBRE EL JUEGO
 
+Juego desarrollado por los alumnos de Segundo de DAM VIOD de la Escola Pia de Granollers i Balmes. 
 
-Juego desarrollado por los alumnos de Segundo de DAM VIOD de la Escola Pia de Granollers.
-Se ha tratado de replicar el famoso Pong de Atari pero para más de un jugador y en línea.
-Los controles son muy simples, para mover la pala utilizaremos las flechas del teclado, hacia arriba y hacia abajo.
+Trata sobre la replica del famoso Pong de Atari pero multijugador, en línea, con gráficos y nuevas novedades que iremos añadiendo poco a poco (escrito en C++ y con el uso de SDL).
 
 
+CONTROLES
 
+Los controles son muy simples:
 
+↑ ----> Mover pala hacia arriba.
 
+↓ ----> Mover pala hacia abajo.
 
+← ----> Rotar pala en el sentido contrario de las agujas del reloj.
 
+→ ----> Rotar pala en el sentido de las agujas del reloj.
 
